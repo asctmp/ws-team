@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:asctmp/blib-priva.git
+	branch = master
+	commit = a1937c5311a1e27e434e6112de4214153fef9b57
+	parent = f32ac3d3954dc7810056aff886255d6cfc6c54c9
+	cmdver = 0.4.0
